@@ -43,8 +43,19 @@
     color: white;
     font-size: 100px;
 }
-/* section 1 */
-.container1 {
+.party-box {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.shape-box1 {
+    width: 200px;
+    border-radius: 20px;
+    background-color: orange;
+    height: 60px;
+}
+/* .container1 {
     display: flex;
 }
 .left-box {
@@ -196,4 +207,17 @@ a {
    opacity: 0.65;
    width: 251px;
    text-align: center;
+} */
+/* section 1 */
+.icon-container {
+    display: flex;
+    margin: 100px;
+
+}
+.icon-text {
+    margin-top: 50px;
+}
+.icon {
+    width: 200px;
+    height: 200px;
 }
