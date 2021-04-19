@@ -216,8 +216,53 @@ a {
 }
 .icon-text {
     margin-top: 50px;
+    text-align: center;
 }
 .icon {
     width: 200px;
     height: 200px;
+}
+.red-text {
+    font-size: 30px;
+    color: red;
+    margin-top: 30px;
+    text-align: center;
+}
+.yellow-brush {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+.delicious-text {
+    text-align: center;
+}
+.orange-box {
+    background-color: orange;
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.pizza-man {
+    height: 500px;
+}
+.text-guarantee {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.text-delievery {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.text-conteiner {
+    margin-left: 200px;
+    margin-top: 200px;
 }
