@@ -232,9 +232,13 @@ a {
     margin-top: 15px;
     margin-bottom: 15px;
     align-items: center;
+    margin-left: 380px;
 }
 .delicious-text {
     text-align: center;
+}
+.icon-ka {
+    margin-left: 20px;
 }
 .orange-box {
     background-color: orange;
@@ -265,4 +269,65 @@ a {
 .text-conteiner {
     margin-left: 200px;
     margin-top: 200px;
+}
+/* section 2 */
+.food-container {
+    margin: 50px;
+    display: flex;
+
+}
+.round-box {
+    width: 200px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: orange;
+}
+.card {
+    /* text-align: center; */
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.textbox-1 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.text-atribute {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.text-atribute1 {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.box-text-wraper {
+    display: flex;
+}
+.price {
+    font-size: 20px;
+    color: orangered;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.box-1 {
+    margin-right: 20px;
+    max-width: 500px;
+    width: 100%;
+}
+.top-box {
+    width: 100%;
+    display: flex;    
+}
+.bottom-box {
+    width: 100%;    
+}
+.red-round-box {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 500px;
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: red;
 }
