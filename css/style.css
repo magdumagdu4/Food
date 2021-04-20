@@ -274,6 +274,7 @@ a {
 .food-container {
     margin: 50px;
     display: flex;
+    flex-wrap: wrap;
 
 }
 .round-box {
@@ -314,13 +315,15 @@ a {
     margin-right: 20px;
     max-width: 500px;
     width: 100%;
+    margin-bottom: 30px;
 }
 .top-box {
     width: 100%;
     display: flex;    
 }
 .bottom-box {
-    width: 100%;    
+    width: 100%;
+    display: flex;    
 }
 .red-round-box {
     margin-top: 30px;
