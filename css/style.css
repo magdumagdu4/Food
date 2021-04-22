@@ -379,3 +379,38 @@ h3 {
 .icons {
     margin-left: 350px;
 }
+/* footer */
+.footer-box {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.middle-box {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.footer-title {
+    font-size: 30px;
+    color: darkmagenta;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sub-title {
+    font-size: 28px;
+    color: gray;
+    margin-bottom: 20px;
+
+}
+.orange-line1 {
+    width: 50px;
+    height: 5px;
+    margin-left: 30px;
+    background-color: orange;
+    margin-bottom: 10px;
+}
+.instagram-image {
+    width: 300px;
+    margin: 20px;
+}
