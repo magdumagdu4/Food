@@ -404,7 +404,10 @@ a {
 } */
 /* section-4 */
 .section-4 {
+    max-width: 1920px;
+    width: 100%;
     margin-top: 30px;
+
 }
 .client-feedback {
     margin-top: 30px;
@@ -430,3 +433,20 @@ a {
     margin-left: 100px;
     padding-top: 150px;
 }
+.white-boxes {
+    display: flex;
+}
+.white-box {
+    background-color: wheat;
+    width: 300px;
+    height: 300px;
+    margin: 85px;
+}
+/* .orange-box2 {
+    padding: 100px;
+    background-color: orange;
+    max-height: 700px;
+    height: 100%;
+    max-width: 1920px;
+    width: 100%;
+} */
