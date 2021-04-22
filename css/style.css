@@ -16,6 +16,7 @@
 }
 .text-right {
     justify-content: space-between;
+    margin-left: 1200px;
 }
 .title1 {
     margin: 50px 605px 0 67px;
@@ -32,8 +33,9 @@
     margin: 70px;
 }
 .nav-a {
+    color: white;
     padding-right: 30px;
-    font-size: 12px;
+    font-size: 20px;
 }
 .text2 {
     top: 50%;
@@ -80,7 +82,7 @@
     margin-top: 15px;
     margin-bottom: 15px;
     align-items: center;
-    margin-left: 380px;
+    margin-left: 800px;
 }
 .section-1 {
     max-width: 1920px;
@@ -174,17 +176,19 @@
 .top-box {
     max-width: 1920px;
     width: 100%;
-    display: flex;    
+    display: flex;  
+    margin-left: 200px;  
 }
 .bottom-box {
     max-width: 1920px;
     width: 100%;
-    display: flex;    
+    display: flex;  
+    margin-left: 200px;  
 }
 .red-round-box {
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 500px;
+    margin-left: 800px;
     width: 200px;
     height: 60px;
     border-radius: 30px;
