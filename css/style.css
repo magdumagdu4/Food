@@ -36,14 +36,23 @@
     color: white;
     padding-right: 30px;
     font-size: 20px;
+    font-family: 'Fredoka One', cursive;
+    /* font-family: 'RocknRoll One', sans-serif; */
+}
+.text-sale {
+    color: honeydew;
+    font-size: 30px;
+    font-family: 'RocknRoll One', sans-serif;
+    margin-bottom: 20px;
 }
 .text2 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    position: absolute;
+    /* position: absolute; */
     color: white;
     font-size: 100px;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .party-box {
     top: 50%;
@@ -57,26 +66,35 @@
     background-color: orange;
     height: 60px;
 }
+.shape-title {
+    color: white;
+    font-size: 30px;
+    font-family: 'RocknRoll One', sans-serif;
+}
 
 /* section 1 */
 .icon-container {
     display: flex;
     margin: 100px;
+    
 
 }
 .icon-text {
     margin-top: 50px;
     text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .icon {
     width: 200px;
     height: 200px;
+    margin-right: 100px;
 }
 .red-text {
     font-size: 30px;
     color: red;
     margin-top: 30px;
     text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .yellow-brush {
     margin-top: 15px;
@@ -90,9 +108,12 @@
 }
 .delicious-text {
     text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 20px;
+    color: grey;
 }
 .icon-ka {
-    margin-left: 20px;
+    margin-left: 50px;
 }
 .orange-box {
     background-color: orange;
@@ -145,6 +166,7 @@
     font-size: 20px;
     margin-top: 30px;
     margin-left: 30px;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .textbox-1 {
     margin-left: 20px;
@@ -153,10 +175,12 @@
 .text-atribute {
     font-size: 20px;
     margin-bottom: 10px;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .text-atribute1 {
     font-size: 15px;
     margin-bottom: 10px;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .box-text-wraper {
     display: flex;
@@ -209,6 +233,7 @@
     font-size: 70px;
     color: white;
     margin-bottom: 20px;
+    font-family: 'RocknRoll One', sans-serif;
     }
 .sale {
     font-size: 30px;
@@ -319,12 +344,16 @@ h2 {
     font-weight: 500;
     margin-bottom: 10px;
     text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+    color: grey;
 }
 h3 {
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 10px;
     text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+    color: grey;
 }
 .red-box {
     width: 920px;
@@ -400,11 +429,13 @@ h3 {
     color: darkmagenta;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-family: 'RocknRoll One', sans-serif;
 }
 .sub-title {
     font-size: 28px;
     color: gray;
     margin-bottom: 20px;
+    font-family: 'RocknRoll One', sans-serif;
 
 }
 .orange-line1 {
