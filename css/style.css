@@ -1,3 +1,7 @@
+header {
+    max-width: 1920px;
+    width: 100%;
+}
 .background-image {
     background-image: url(../img/cover.jpg);
     background-repeat: no-repeat;
@@ -16,7 +20,7 @@
 }
 .text-right {
     justify-content: space-between;
-    margin-left: 1200px;
+    /* margin-left: 1200px; */
 }
 .title1 {
     margin: 50px 605px 0 67px;
@@ -146,6 +150,10 @@
     margin-top: 200px;
 }
 /* section 2 */
+.section-2 {
+    max-width: 1920px;
+    width: 100%;
+}
 .food-container {
     max-width: 1920px;
     width: 100%;
@@ -413,6 +421,10 @@ h3 {
     margin-left: 350px;
 }
 /* footer */
+footer {
+    max-width: 1920px;
+    width: 100%;
+}
 .footer-box {
     display: flex;
     padding-left: 100px;

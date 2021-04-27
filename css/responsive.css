@@ -1,60 +1,79 @@
-@media (max-width: 1120px) {
-    .background-image {
-        height: 700px;
+@media (max-width: 1170px) {
+    header {
+        width: 1170px;
     }
-    
-    .container1 {
-        flex-wrap: wrap;
-        justify-content: center;
+    footer {
+        width: 1170px;
     }
-    .left-box {
-        margin-bottom: 30px;
+    .section-1 .section-2 .section-3 .section-4 {
+        width: 1170px;
     }
-    .wraper {
-        flex-wrap: wrap;
-        justify-content: center;
+    .yellow-brush {
+        margin-left: 500px;
     }
-    .nav-li {
-        margin: 20px;
-    }
+}
 
+@media (max-width: 1024px) {
+    header {
+        width: 1024px;
+    }
+    footer {
+        width: 1024px;
+    }
+    .section-1 .section-2 .section-3 .section-4 {
+        width: 1024px;
+    }
+    .yellow-brush {
+        margin-left: 400px;
+    }
+    .icon-container {
+        display: block;
+        margin: 0 auto;
+    }
 }
+
 @media (max-width: 768px) {
-    .background-image {
-        height: 500px;
+    header {
+        width: 768px;
     }
-    .header-text {
-        flex-wrap: wrap;
-        justify-content: center;
+    footer {
+        width: 768px;
     }
-    .text-left {
-        justify-content: center;
+    .section-1 .section-2 .section-3 .section-4 {
+        width: 768px;
     }
-    .text2 {
-        font-size: 70px;
+    .yellow-brush {
+        margin-left: 300px;
     }
-    .section-title {
-        flex-wrap: wrap;
-        justify-content: center;
+}
+
+@media (max-width: 480px) {
+    header {
+        width: 480px;
     }
-    p {
-        flex-wrap: wrap;
-        justify-content: center;
+    footer {
+        width: 480px;
     }
-    .title1 {
-        margin-left: 50px;
+    .section-1 .section-2 .section-3 .section-4 {
+        width: 480px;
     }
-   
+    .yellow-brush {
+        margin-left: 200px;
+    }
     
 }
-@media (max-width: 480px) {
-    .background-image {
-        height: 300px;
+
+@media (max-width: 320px) {
+    header {
+        width: 320px;
     }
-    .text2 {
-        font-size: 40px;
+    footer {
+        width: 320px;
     }
-    .nav-li {
-        display: none;
+    .section-1 .section-2 .section-3 .section-4 {
+        width: 320px;
+    }
+    .yellow-brush {
+        margin-left: 150px;
     }
 }
